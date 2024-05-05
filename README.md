@@ -1,6 +1,7 @@
 # Python-Project
 Using Gui 
-Simple Programming Language Interpreter
+Simple Programming Language Interpreter:
+
 This project is a simple interpreter for a custom programming language described by a basic Backus-Naur Form (BNF). The interpreter accepts valid statements in the language and executes them until a STOP statement is encountered. Once a STOP statement is reached, it prints each variable assigned a value along with its current value.
 
 Language Description
